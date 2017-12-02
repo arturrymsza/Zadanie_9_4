@@ -13,7 +13,6 @@ function drawTree(a) {
     }
     console.log(space + star); 
   }
-    
 }
 
 drawTree(5)
